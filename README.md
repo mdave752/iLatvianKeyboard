@@ -10,3 +10,4 @@ Keyboard layout changes for INT Mac keyboard.
 
 - Copy bundle file to /Library/Keyboard Layouts/ or ~/Library/Keyboard Layouts/  (if saved as curr user, can't be used while logging in.)
 - logout/login
+- After login it will show in System setting keyboard layout settings under Latvian language.
